@@ -1,0 +1,12 @@
+Package: MPAT
+Type: Package
+Title: For multiple phenotype genetic association studies
+Version: 1.0
+Date: 2015-09-10
+Author: Zhonghua Liu    
+Maintainer: Zhonghua Liu <zliu@mail.harvard.edu>
+Description: Conduct multiple phenotype genetic association studies based on summary statistics. 
+License: GPL (>= 2)
+NeedsCompilation: yes
+Imports: mvtnorm
+Packaged: 2015-11-24 20:31:28 UTC; ZhonghuaLiu

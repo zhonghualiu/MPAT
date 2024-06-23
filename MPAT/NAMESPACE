@@ -1,0 +1,6 @@
+useDynLib(MPAT, .registration = TRUE)
+export(PC,PCMinP,PCFisher,PCLC,PCLogit,MinP,WI,VC,DSUM,SUM,Wald,mixAda,mixFisher,mixTippett,mixVar,mixSD,PCAQ,SigmaXEstimate,PCMeta,SigmaMetaEstimate)
+import(mvtnorm)
+# Export all names
+
+
